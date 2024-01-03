@@ -8,6 +8,10 @@ class Person {
     get() = field // getter
     set(value) {field = value} // setter
 
+    var age:Int = 28
+        get() = field // getter
+        set(value) {field = value} // setter
+
 }
 fun main(){
     var p1 = Person()

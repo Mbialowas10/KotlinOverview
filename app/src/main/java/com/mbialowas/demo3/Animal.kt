@@ -12,7 +12,7 @@ open class Animal(
 ) {
 
     // secondary constructor - not as common
-    // constructor(name: String, sound:String){}
+    ///constructor(name: String, sound:String){}
 
 
     // init gets called when class is initialized ie. when object is created
@@ -23,7 +23,7 @@ open class Animal(
 
     // eg. mammals, birds, fish, reptiles, etc...
     //var type: String? = null
-    //var sound:String? = null
+    //val sound:String? = null
 
     // constructor goes here...
 

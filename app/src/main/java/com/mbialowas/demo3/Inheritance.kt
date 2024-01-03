@@ -8,7 +8,7 @@ package com.mbialowas.demo3
  */
 fun main(){
 
-    val person = Animal("Human") // note no second parameter passed in
+    //val person = Animal("Human") // note no second parameter passed in
 
 
     val bird = Bird("Blue jay", "Chirp")
