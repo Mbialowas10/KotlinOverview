@@ -17,7 +17,7 @@ fun main(){
     for (item in set2){
         println(item)
     }
-    println("++++++++++")
+    println("++++++ ++++")
     set2.add("Bob")
 
     for (item in set2){

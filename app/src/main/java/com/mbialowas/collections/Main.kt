@@ -17,7 +17,6 @@ fun main() {
 
     // no add method avaialbe on immutable aka read only list
 
-
     // mutable list - writable list
     var list2 = mutableListOf<String>("Mike","was","here","on")
 
